@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 174, 235);
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(108, 9, 133);
+}
+
+.rodape {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+#texto {
+    color: rgb(175, 0, 137);
+    font-weight: bolder;
+}
+
+
